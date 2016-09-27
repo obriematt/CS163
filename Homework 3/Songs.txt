@@ -1,0 +1,9 @@
+title:artist:album:100:10
+endless fantasy:anamanaguchi:album:500:1
+last friday night:katy perry:teenage dream:50:5
+test:testing:tested:600:2
+this is a title:this is an artist:this is an album:60:9
+more titles:more artists:more albums:60:8
+im still testing this:i dont know why:i hope it works:7:15
+gettin jiggy wit it:will smith:big willie style:228:99
+crawl:childish gambino:because the internet:300:15

@@ -1,0 +1,10 @@
+dogs:cats
+dogs:hair
+katy perry:awesome
+katy perry:hot
+balloon:plastic
+orange:blue
+orange:yellow
+car:bike
+desktop:laptop
+chemistry:biology
